@@ -120,8 +120,7 @@
 **# 6. ¿Que es un selector en CSS y cuales tipos existen?**
 
   R// Un selector en CSS es la primera parte de una regla CSS: es el patrón que indica al navegador 
-  qué elemento(s) del HTML serán el sujeto de las declaraciones de estilo. Por ejemplo, en la regla
-  h1 { color: blue; }
+  qué elementos del HTML serán el sujeto de las declaraciones de estilo. Por ejemplo, en la regla h1 { color: blue; }
   el selector es h1 y selecciona los elementos <h1>.
 
 **### Principales tipos de selectores:**
