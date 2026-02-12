@@ -1,0 +1,80 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(255, 238, 0);
+    color: rgb(0, 0, 0);
+    margin: 0;
+    padding: 20px;
+}
+
+.encabezado {
+    background-color: #d13014;
+    padding: 20px;
+    text-align: center;
+    font-size: large;
+    border: 3px solid rgb(0, 0, 0);  
+    border-radius: 10px;
+    margin-bottom: 20px;
+    color: white;
+}
+
+.descripcion {
+    background-color: rgb(41, 74, 165);
+    padding: 20px;
+    border: 2px solid rgb(0, 0, 0);
+    margin: 20px auto;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    max-width: 800px;
+    border-radius: 10px;
+}
+
+#cubo-rubik {
+    display: block;
+    margin: 20px auto;
+    border: 2px solid rgb(0, 0, 0);
+    box-shadow: 2px 2px 50px rgb(255, 139, 7);
+    height: auto;
+    border-radius: 10px;
+}
+
+#youtube-link {
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    text-decoration: none;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 5px;
+    padding: 10px 20px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 2px 2px 5px rgba(128, 128, 128, 0.5);
+    display: inline-block;
+    margin: 20px auto;
+    text-align: center;
+    transition: all 0.3s ease;
+}
+
+#youtube-link:hover {
+    background-color: rgb(211, 107, 10);
+    color: white;
+    border-color: white;
+}
+
+.btn {
+    background-color: #d13014;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 12px 24px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 5px;
+    cursor: pointer;
+    display: block;
+    margin: 30px auto;
+    transition: all 0.3s ease;
+    box-shadow: 2px 2px 5px rgba(128, 128, 128, 0.5);
+}
+
+.btn:hover {
+    background-color: rgb(31, 126, 22);
+    border-color: white;
+}
