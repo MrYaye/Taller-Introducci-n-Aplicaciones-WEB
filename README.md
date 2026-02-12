@@ -124,7 +124,6 @@
   el selector es h1 y selecciona los elementos <h1>.
 
 **### Principales tipos de selectores:**
-
   ####Selector de tipo (elemento):
   
 	  - Selecciona elementos por su nombre de etiqueta.
