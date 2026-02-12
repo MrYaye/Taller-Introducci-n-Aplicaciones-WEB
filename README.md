@@ -123,26 +123,27 @@
   qué elementos del HTML serán el sujeto de las declaraciones de estilo. Por ejemplo, en la regla h1 { color: blue; }
   el selector es h1 y selecciona los elementos <h1>.
 
-**### Principales tipos de selectores:**
-  ####Selector de tipo (elemento):
+	**### Principales tipos de selectores:**
+	
+		####Selector de tipo (elemento):
   
-	  - Selecciona elementos por su nombre de etiqueta.
-	  - Ejemplo: p { color: red; } — selecciona todos los <p>.
+	  		- Selecciona elementos por su nombre de etiqueta.
+	  		-Ejemplo: p { color: red; } — selecciona todos los <p>.
 
-  ####Selector de clase:
+  		####Selector de clase:
   
-	  - Selecciona elementos que tienen una clase concreta.
-	  - Ejemplo: .box { padding: 1rem; } — selecciona elementos con class="box".
+	  		- Selecciona elementos que tienen una clase concreta.
+	  		- Ejemplo: .box { padding: 1rem; } — selecciona elementos con class="box".
 
-  ####Selector de ID:
+  		####Selector de ID:
   
-	  - Selecciona un elemento por su id único.
-	  - Ejemplo: #unique { background: yellow; } — selecciona el elemento con id="unique".
+	  		- Selecciona un elemento por su id único.
+	  		- Ejemplo: #unique { background: yellow; } — selecciona el elemento con id="unique".
 
-  ####Selector universal:
+  		####Selector universal:
   
-	  - Selecciona todos los elementos.
-	  - Ejemplo: * { box-sizing: border-box; }
+	  		- Selecciona todos los elementos.
+	  		- Ejemplo: * { box-sizing: border-box; }
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
